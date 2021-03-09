@@ -1,0 +1,23 @@
+body{
+  font-family: 'Vazir',Vazir,Tahoma,Arial,sans-serif !important;
+  font-size: .875rem;
+  font-weight: 300;
+  min-height: 100vh;
+  position: relative;
+  margin: 0;
+  padding-bottom: 80px; 
+  box-sizing: border-box;
+  
+
+}
+
+#buy{
+  box-shadow: 1px 2px 3px 2px #cccc;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  height: 80px;
+  width: 100%;
+}
